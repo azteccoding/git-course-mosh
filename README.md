@@ -1,2 +1,3 @@
-# git-course-mosh
-This is a test repo for learning git
+# Git Course Mosh
+
+Learn to collaborate with others
